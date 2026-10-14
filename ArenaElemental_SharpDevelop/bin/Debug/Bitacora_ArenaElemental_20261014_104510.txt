@@ -1,0 +1,72 @@
+﻿======================================================================
+          BITACORA OFICIAL DE COMBATE - ARENA ELEMENTAL               
+======================================================================
+Fecha y Hora      : 14/10/2026 10:45:10
+Jugador 1         : JugadorUno
+Jugador 2         : JugadorDos
+Vencedor          : JugadorDos
+Escenario Final   : Cumbre De Viento
+Total de Turnos   : 22
+----------------------------------------------------------------------
+HISTORIAL CRONOLOGICO DE ACCIONES (DESDE EL INICIO HASTA EL FINAL):
+----------------------------------------------------------------------
+[T01] [INICIO] Combate en [Abismo Oceanico]. Jugador inicial por sorteo: JugadorUno.
+[T01] Golem De Basalto ataca a Boreas Silencioso (Mult x0,75, Escenario 0): Escudo absorbe 12, Vida recibe -0 HP.
+[T01] Golem De Basalto refuerza su postura defensiva (+14 Escudo -> Total: 44).
+[T02] Boreas Silencioso ataca a Golem De Basalto (Mult x1,50, Escenario 0): Escudo absorbe 44, Vida recibe -13 HP.
+[T02] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T03] Golem De Basalto ataca a Boreas Silencioso (Mult x0,75, Escenario +6): Escudo absorbe 13, Vida recibe -1 HP.
+[T03] [TERREMOTO INVERTIDO - Empatia 90>=75] Golem De Basalto armoniza con Canion Rocoso: +9 HP y +6 Escudo!
+[T03] [TERREMOTO CATASTROFICO] Boreas Silencioso pierde su escudo y sufre -6 HP por el sismo!
+[T04] Boreas Silencioso ejecuta [Huracan Del Norte]! Doble impacto aereo que inflige 84 HP en total a Golem De Basalto.
+[T04] [DEBILITADO] Golem De Basalto (J1) cayo a 0 HP y sale definitivamente del combate!
+[T04] [RELEVO FORZADO J1] Ingresa Rocco Rompemuros desde la Cola de Relevos.
+[T04] Boreas Silencioso ataca a Rocco Rompemuros (Mult x1,50, Escenario 0): Escudo absorbe 25, Vida recibe -27 HP.
+[T04] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T05] Rocco Rompemuros ataca a Boreas Silencioso (Mult x0,75, Escenario -4): Escudo absorbe 0, Vida recibe -16 HP.
+[T06] Boreas Silencioso ataca a Rocco Rompemuros (Mult x1,50, Escenario +6): Escudo absorbe 0, Vida recibe -58 HP.
+[T06] [DEBILITADO] Rocco Rompemuros (J1) cayo a 0 HP y sale definitivamente del combate!
+[T06] [RELEVO FORZADO J1] Ingresa Valkiria Celeste desde la Cola de Relevos.
+[T06] [TERREMOTO INVERTIDO - Empatia 80>=70] Valkiria Celeste armoniza con Cumbre De Viento: +8 HP y +6 Escudo!
+[T06] [TERREMOTO CATASTROFICO] Boreas Silencioso pierde su escudo y sufre -6 HP por el sismo!
+[T06] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T08] Boreas Silencioso ataca a Valkiria Celeste (Mult x1,00, Escenario -4): Escudo absorbe 26, Vida recibe -5 HP.
+[T08] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T09] Valkiria Celeste ataca a Boreas Silencioso (Mult x1,00, Escenario 0): Escudo absorbe 0, Vida recibe -33 HP.
+[T09] [DEBILITADO] Boreas Silencioso (J2) cayo a 0 HP y sale definitivamente del combate!
+[T09] [RELEVO FORZADO J2] Ingresa Vulcano Acorazado desde la Cola de Relevos.
+[T09] [TERREMOTO INVERTIDO - Empatia 80>=65] Valkiria Celeste armoniza con Abismo Oceanico: +8 HP y +6 Escudo!
+[T09] [TERREMOTO INVERTIDO - Empatia 65>=65] Vulcano Acorazado armoniza con Abismo Oceanico: +9 HP y +6 Escudo!
+[T10] Vulcano Acorazado ataca a Valkiria Celeste (Mult x1,50, Escenario -4): Escudo absorbe 6, Vida recibe -23 HP.
+[T10] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T12] Vulcano Acorazado desata [Erupcion De Magma]! Ignora el escudo y causa 44 de danio perforante a Valkiria Celeste.
+[T12] [DEBILITADO] Valkiria Celeste (J1) cayo a 0 HP y sale definitivamente del combate!
+[T12] [RELEVO FORZADO J1] Ingresa Ignis El Piromante desde la Cola de Relevos.
+[T12] Vulcano Acorazado ataca a Ignis El Piromante (Mult x1,00, Escenario 0): Escudo absorbe 20, Vida recibe -0 HP.
+[T12] [TERREMOTO CATASTROFICO] Ignis El Piromante pierde su escudo y sufre -7 HP por el sismo!
+[T12] [TERREMOTO CATASTROFICO] Vulcano Acorazado pierde su escudo y sufre -9 HP por el sismo!
+[T12] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T14] Vulcano Acorazado ataca a Ignis El Piromante (Mult x1,00, Escenario 0): Escudo absorbe 0, Vida recibe -20 HP.
+[T14] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T15] [TERREMOTO CATASTROFICO] Ignis El Piromante pierde su escudo y sufre -7 HP por el sismo!
+[T15] [TERREMOTO CATASTROFICO] Vulcano Acorazado pierde su escudo y sufre -9 HP por el sismo!
+[T16] Vulcano Acorazado ataca a Ignis El Piromante (Mult x1,00, Escenario +6): Escudo absorbe 0, Vida recibe -26 HP.
+[T16] [DEBILITADO] Ignis El Piromante (J1) cayo a 0 HP y sale definitivamente del combate!
+[T16] [RELEVO FORZADO J1] Ingresa Kael Cuchilla Ignea desde la Cola de Relevos.
+[T16] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T18] Vulcano Acorazado ataca a Kael Cuchilla Ignea (Mult x1,00, Escenario -4): Escudo absorbe 16, Vida recibe -0 HP.
+[T18] [TERREMOTO CATASTROFICO] Kael Cuchilla Ignea pierde su escudo y sufre -7 HP por el sismo!
+[T18] [TERREMOTO INVERTIDO - Empatia 65>=65] Vulcano Acorazado armoniza con Abismo Oceanico: +9 HP y +6 Escudo!
+[T18] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T20] Vulcano Acorazado ataca a Kael Cuchilla Ignea (Mult x1,00, Escenario 0): Escudo absorbe 0, Vida recibe -20 HP.
+[T20] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T21] [TERREMOTO CATASTROFICO] Kael Cuchilla Ignea pierde su escudo y sufre -7 HP por el sismo!
+[T21] [TERREMOTO CATASTROFICO] Vulcano Acorazado pierde su escudo y sufre -10 HP por el sismo!
+[T22] Vulcano Acorazado ataca a Kael Cuchilla Ignea (Mult x1,00, Escenario 0): Escudo absorbe 0, Vida recibe -20 HP.
+[T22] [DEBILITADO] Kael Cuchilla Ignea (J1) cayo a 0 HP y sale definitivamente del combate!
+[T22] [FIN DE PARTIDA] El equipo de JugadorUno fue eliminado! Vencedor: JugadorDos!
+======================================================================
+ESTADISTICAS ACTUALIZADAS:
+ - JugadorUno: PJ=4 | V=3 | D=1 | Exito=75,00%
+ - JugadorDos: PJ=4 | V=1 | D=3 | Exito=25,00%
+======================================================================

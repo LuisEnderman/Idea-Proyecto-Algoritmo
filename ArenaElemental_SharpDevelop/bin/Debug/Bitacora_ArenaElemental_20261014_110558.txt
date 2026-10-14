@@ -1,0 +1,132 @@
+﻿======================================================================
+          BITACORA OFICIAL DE COMBATE - ARENA ELEMENTAL               
+======================================================================
+Fecha y Hora      : 14/10/2026 11:05:58
+Jugador 1         : JugadorUno
+Jugador 2         : JugadorDos
+Vencedor          : JugadorDos
+Escenario Final   : Cumbre De Viento
+Total de Turnos   : 63
+----------------------------------------------------------------------
+HISTORIAL CRONOLOGICO DE ACCIONES (DESDE EL INICIO HASTA EL FINAL):
+----------------------------------------------------------------------
+[T01] [INICIO] Combate en [Volcan Activo]. Jugador inicial por sorteo: JugadorDos.
+[T01] Nereida Del Abismo ataca a Ignis El Piromante (Mult x1,50, Escenario 0): Escudo absorbe 20, Vida recibe -12 HP.
+[T02] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T03] Nereida Del Abismo ataca a Ignis El Piromante (Mult x1,50, Escenario +6): Escudo absorbe 0, Vida recibe -38 HP.
+[T03] [DEBILITADO] Ignis El Piromante (J1) cayo a 0 HP y sale definitivamente del combate!
+[T03] [RELEVO FORZADO J1] Ingresa Kael Cuchilla Ignea desde la Cola de Relevos.
+[T03] [TERREMOTO CATASTROFICO] Kael Cuchilla Ignea pierde su escudo y sufre -6 HP por el sismo!
+[T03] [TERREMOTO INVERTIDO - Empatia 85>=65] Nereida Del Abismo armoniza con Abismo Oceanico: +8 HP y +6 Escudo!
+[T04] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T05] Nereida Del Abismo invoca [Marea Sanadora]! Roba 1 de energia, se cura +14 HP y causa 20 de danio a Kael Cuchilla Ignea.
+[T05] Nereida Del Abismo ataca a Kael Cuchilla Ignea (Mult x1,50, Escenario -4): Escudo absorbe 0, Vida recibe -26 HP.
+[T05] [DEBILITADO] Kael Cuchilla Ignea (J1) cayo a 0 HP y sale definitivamente del combate!
+[T05] [RELEVO FORZADO J1] Ingresa Kraken Acorazado desde la Cola de Relevos.
+[T06] [TERREMOTO INVERTIDO - Empatia 75>=75] Kraken Acorazado armoniza con Canion Rocoso: +9 HP y +6 Escudo!
+[T06] [TERREMOTO INVERTIDO - Empatia 85>=75] Nereida Del Abismo armoniza con Canion Rocoso: +8 HP y +6 Escudo!
+[T06] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T07] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario 0): Escudo absorbe 20, Vida recibe -0 HP.
+[T08] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T09] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario 0): Escudo absorbe 11, Vida recibe -9 HP.
+[T09] [TERREMOTO INVERTIDO - Empatia 75>=70] Kraken Acorazado armoniza con Volcan Activo: +9 HP y +6 Escudo!
+[T09] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Volcan Activo: +9 HP y +6 Escudo!
+[T10] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T11] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario +6): Escudo absorbe 6, Vida recibe -20 HP.
+[T12] [TERREMOTO INVERTIDO - Empatia 75>=65] Kraken Acorazado armoniza con Abismo Oceanico: +10 HP y +6 Escudo!
+[T12] [TERREMOTO INVERTIDO - Empatia 85>=65] Nereida Del Abismo armoniza con Abismo Oceanico: +9 HP y +6 Escudo!
+[T12] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T13] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario -4): Escudo absorbe 6, Vida recibe -10 HP.
+[T14] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T15] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario 0): Escudo absorbe 0, Vida recibe -20 HP.
+[T15] [TERREMOTO INVERTIDO - Empatia 75>=70] Kraken Acorazado armoniza con Cumbre De Viento: +10 HP y +6 Escudo!
+[T15] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Cumbre De Viento: +9 HP y +6 Escudo!
+[T16] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T17] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario 0): Escudo absorbe 6, Vida recibe -14 HP.
+[T18] [TERREMOTO INVERTIDO - Empatia 75>=70] Kraken Acorazado armoniza con Volcan Activo: +10 HP y +6 Escudo!
+[T18] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Volcan Activo: +9 HP y +6 Escudo!
+[T18] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T19] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario +6): Escudo absorbe 6, Vida recibe -20 HP.
+[T20] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T21] Nereida Del Abismo ataca a Kraken Acorazado (Mult x1,00, Escenario -4): Escudo absorbe 0, Vida recibe -16 HP.
+[T21] [DEBILITADO] Kraken Acorazado (J1) cayo a 0 HP y sale definitivamente del combate!
+[T21] [RELEVO FORZADO J1] Ingresa Golem De Basalto desde la Cola de Relevos.
+[T21] [TERREMOTO INVERTIDO - Empatia 90>=75] Golem De Basalto armoniza con Canion Rocoso: +10 HP y +6 Escudo!
+[T21] [TERREMOTO INVERTIDO - Empatia 85>=75] Nereida Del Abismo armoniza con Canion Rocoso: +10 HP y +6 Escudo!
+[T22] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T23] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 15, Vida recibe -0 HP.
+[T24] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Cumbre De Viento: +11 HP y +6 Escudo!
+[T24] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Cumbre De Viento: +10 HP y +6 Escudo!
+[T24] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T25] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 15, Vida recibe -0 HP.
+[T26] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T27] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario +6): Escudo absorbe 12, Vida recibe -9 HP.
+[T27] [TERREMOTO INVERTIDO - Empatia 90>=65] Golem De Basalto armoniza con Abismo Oceanico: +11 HP y +6 Escudo!
+[T27] [TERREMOTO INVERTIDO - Empatia 85>=65] Nereida Del Abismo armoniza con Abismo Oceanico: +10 HP y +6 Escudo!
+[T28] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T29] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario -4): Escudo absorbe 6, Vida recibe -5 HP.
+[T30] [TERREMOTO INVERTIDO - Empatia 90>=75] Golem De Basalto armoniza con Canion Rocoso: +11 HP y +6 Escudo!
+[T30] [TERREMOTO INVERTIDO - Empatia 85>=75] Nereida Del Abismo armoniza con Canion Rocoso: +10 HP y +6 Escudo!
+[T30] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T31] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 6, Vida recibe -9 HP.
+[T32] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T33] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 0, Vida recibe -15 HP.
+[T33] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Volcan Activo: +11 HP y +6 Escudo!
+[T33] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Volcan Activo: +10 HP y +6 Escudo!
+[T34] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T35] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario +6): Escudo absorbe 6, Vida recibe -15 HP.
+[T36] [TERREMOTO INVERTIDO - Empatia 90>=65] Golem De Basalto armoniza con Abismo Oceanico: +11 HP y +6 Escudo!
+[T36] [TERREMOTO INVERTIDO - Empatia 85>=65] Nereida Del Abismo armoniza con Abismo Oceanico: +10 HP y +6 Escudo!
+[T36] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T37] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario -4): Escudo absorbe 6, Vida recibe -5 HP.
+[T38] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T39] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 0, Vida recibe -15 HP.
+[T39] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Cumbre De Viento: +11 HP y +6 Escudo!
+[T39] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Cumbre De Viento: +10 HP y +6 Escudo!
+[T40] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T41] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 6, Vida recibe -9 HP.
+[T42] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Volcan Activo: +11 HP y +6 Escudo!
+[T42] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Volcan Activo: +10 HP y +6 Escudo!
+[T42] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T43] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario +6): Escudo absorbe 6, Vida recibe -15 HP.
+[T44] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T45] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario -4): Escudo absorbe 0, Vida recibe -11 HP.
+[T45] [TERREMOTO INVERTIDO - Empatia 90>=75] Golem De Basalto armoniza con Canion Rocoso: +10 HP y +6 Escudo!
+[T45] [TERREMOTO INVERTIDO - Empatia 85>=75] Nereida Del Abismo armoniza con Canion Rocoso: +10 HP y +6 Escudo!
+[T46] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T47] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 6, Vida recibe -9 HP.
+[T48] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Cumbre De Viento: +10 HP y +6 Escudo!
+[T48] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Cumbre De Viento: +9 HP y +6 Escudo!
+[T48] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T49] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 6, Vida recibe -9 HP.
+[T50] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T51] Nereida Del Abismo ataca a Golem De Basalto (Mult x0,75, Escenario +6): Escudo absorbe 0, Vida recibe -21 HP.
+[T51] [DEBILITADO] Golem De Basalto (J1) cayo a 0 HP y sale definitivamente del combate!
+[T51] [RELEVO FORZADO J1] Ingresa Rocco Rompemuros desde la Cola de Relevos.
+[T51] [TERREMOTO INVERTIDO - Empatia 70>=65] Rocco Rompemuros armoniza con Abismo Oceanico: +8 HP y +6 Escudo!
+[T51] [TERREMOTO INVERTIDO - Empatia 85>=65] Nereida Del Abismo armoniza con Abismo Oceanico: +9 HP y +6 Escudo!
+[T52] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T53] Nereida Del Abismo ataca a Rocco Rompemuros (Mult x0,75, Escenario -4): Escudo absorbe 11, Vida recibe -0 HP.
+[T54] [TERREMOTO CATASTROFICO] Rocco Rompemuros pierde su escudo y sufre -4 HP por el sismo!
+[T54] [TERREMOTO INVERTIDO - Empatia 85>=75] Nereida Del Abismo armoniza con Canion Rocoso: +9 HP y +6 Escudo!
+[T54] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T55] Nereida Del Abismo ataca a Rocco Rompemuros (Mult x0,75, Escenario 0): Escudo absorbe 0, Vida recibe -15 HP.
+[T56] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T57] Nereida Del Abismo ataca a Rocco Rompemuros (Mult x0,75, Escenario 0): Escudo absorbe 0, Vida recibe -15 HP.
+[T57] [TERREMOTO INVERTIDO - Empatia 70>=70] Rocco Rompemuros armoniza con Volcan Activo: +8 HP y +6 Escudo!
+[T57] [TERREMOTO INVERTIDO - Empatia 85>=70] Nereida Del Abismo armoniza con Volcan Activo: +9 HP y +6 Escudo!
+[T58] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T59] Nereida Del Abismo ataca a Rocco Rompemuros (Mult x0,75, Escenario +6): Escudo absorbe 6, Vida recibe -15 HP.
+[T60] [TERREMOTO INVERTIDO - Empatia 70>=65] Rocco Rompemuros armoniza con Abismo Oceanico: +8 HP y +6 Escudo!
+[T60] [TERREMOTO INVERTIDO - Empatia 85>=65] Nereida Del Abismo armoniza con Abismo Oceanico: +8 HP y +6 Escudo!
+[T60] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T61] Nereida Del Abismo ataca a Rocco Rompemuros (Mult x0,75, Escenario -4): Escudo absorbe 6, Vida recibe -5 HP.
+[T62] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T63] Nereida Del Abismo ataca a Rocco Rompemuros (Mult x0,75, Escenario 0): Escudo absorbe 0, Vida recibe -15 HP.
+[T63] [DEBILITADO] Rocco Rompemuros (J1) cayo a 0 HP y sale definitivamente del combate!
+[T63] [FIN DE PARTIDA] El equipo de JugadorUno fue eliminado! Vencedor: JugadorDos!
+======================================================================
+ESTADISTICAS ACTUALIZADAS:
+ - JugadorUno: PJ=4 | V=3 | D=1 | Exito=75,00%
+ - JugadorDos: PJ=4 | V=1 | D=3 | Exito=25,00%
+======================================================================

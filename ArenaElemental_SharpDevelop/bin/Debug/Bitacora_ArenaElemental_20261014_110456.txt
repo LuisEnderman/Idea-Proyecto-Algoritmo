@@ -1,0 +1,82 @@
+﻿======================================================================
+          BITACORA OFICIAL DE COMBATE - ARENA ELEMENTAL               
+======================================================================
+Fecha y Hora      : 14/10/2026 11:04:56
+Jugador 1         : Luis
+Jugador 2         : JugadorDos
+Vencedor          : JugadorDos
+Escenario Final   : Abismo Oceanico
+Total de Turnos   : 27
+----------------------------------------------------------------------
+HISTORIAL CRONOLOGICO DE ACCIONES (DESDE EL INICIO HASTA EL FINAL):
+----------------------------------------------------------------------
+[T01] [INICIO] Combate en [Volcan Activo]. Jugador inicial por sorteo: JugadorDos.
+[T01] Nereida Del Abismo ataca a Ignis El Piromante (Mult x1,50, Escenario 0): Escudo absorbe 20, Vida recibe -12 HP.
+[T02] Ignis El Piromante ataca a Nereida Del Abismo (Mult x0,75, Escenario +6): Escudo absorbe 25, Vida recibe -10 HP.
+[T02] Ignis El Piromante ataca a Nereida Del Abismo (Mult x0,75, Escenario +6): Escudo absorbe 0, Vida recibe -34 HP.
+[T02] [TIEMPO AGOTADO] Luis perdio el resto de su turno por limite de reloj.
+[T02] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T03] Nereida Del Abismo ataca a Ignis El Piromante (Mult x1,50, Escenario +6): Escudo absorbe 0, Vida recibe -38 HP.
+[T03] [DEBILITADO] Ignis El Piromante (J1) cayo a 0 HP y sale definitivamente del combate!
+[T03] [RELEVO FORZADO J1] Ingresa Kael Cuchilla Ignea desde la Cola de Relevos.
+[T03] Nereida Del Abismo refuerza su postura defensiva (+11 Escudo -> Total: 11).
+[T03] [TERREMOTO CATASTROFICO] Kael Cuchilla Ignea pierde su escudo y sufre -6 HP por el sismo!
+[T03] [TERREMOTO INVERTIDO - Empatia 85>=65] Nereida Del Abismo armoniza con Abismo Oceanico: +8 HP y +6 Escudo!
+[T04] Kael Cuchilla Ignea ataca a Nereida Del Abismo (Mult x0,75, Escenario -4): Escudo absorbe 17, Vida recibe -12 HP.
+[T04] Kael Cuchilla Ignea ataca a Nereida Del Abismo (Mult x0,75, Escenario -4): Escudo absorbe 0, Vida recibe -28 HP.
+[T04] [DEBILITADO] Nereida Del Abismo (J2) cayo a 0 HP y sale definitivamente del combate!
+[T04] [RELEVO FORZADO J2] Ingresa Siren Cazadora desde la Cola de Relevos.
+[T04] Kael Cuchilla Ignea ataca a Siren Cazadora (Mult x0,75, Escenario -4): Escudo absorbe 20, Vida recibe -6 HP.
+[T04] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T05] Siren Cazadora ataca a Kael Cuchilla Ignea (Mult x1,50, Escenario -4): Escudo absorbe 0, Vida recibe -45 HP.
+[T05] [DEBILITADO] Kael Cuchilla Ignea (J1) cayo a 0 HP y sale definitivamente del combate!
+[T05] [RELEVO FORZADO J1] Ingresa Kraken Acorazado desde la Cola de Relevos.
+[T06] [TERREMOTO INVERTIDO - Empatia 75>=75] Kraken Acorazado armoniza con Canion Rocoso: +9 HP y +6 Escudo!
+[T06] [TERREMOTO CATASTROFICO] Siren Cazadora pierde su escudo y sufre -8 HP por el sismo!
+[T06] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T07] Siren Cazadora invoca [Lanza De Hielo]! Roba 1 de energia, se cura +12 HP y causa 0 de danio a Kraken Acorazado.
+[T07] Siren Cazadora ataca a Kraken Acorazado (Mult x1,00, Escenario 0): Escudo absorbe 1, Vida recibe -31 HP.
+[T08] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T09] Siren Cazadora ataca a Kraken Acorazado (Mult x1,00, Escenario 0): Escudo absorbe 0, Vida recibe -32 HP.
+[T09] [DEBILITADO] Kraken Acorazado (J1) cayo a 0 HP y sale definitivamente del combate!
+[T09] [RELEVO FORZADO J1] Ingresa Golem De Basalto desde la Cola de Relevos.
+[T09] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Volcan Activo: +9 HP y +6 Escudo!
+[T09] [TERREMOTO CATASTROFICO] Siren Cazadora pierde su escudo y sufre -8 HP por el sismo!
+[T10] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T11] Siren Cazadora invoca [Lanza De Hielo]! Roba 1 de energia, se cura +12 HP y causa 0 de danio a Golem De Basalto.
+[T11] Siren Cazadora ataca a Golem De Basalto (Mult x0,75, Escenario +6): Escudo absorbe 6, Vida recibe -22 HP.
+[T12] [TERREMOTO INVERTIDO - Empatia 90>=65] Golem De Basalto armoniza con Abismo Oceanico: +10 HP y +6 Escudo!
+[T12] [TERREMOTO CATASTROFICO] Siren Cazadora pierde su escudo y sufre -8 HP por el sismo!
+[T12] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T13] Siren Cazadora ataca a Golem De Basalto (Mult x0,75, Escenario -4): Escudo absorbe 6, Vida recibe -12 HP.
+[T14] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T15] Siren Cazadora ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 0, Vida recibe -22 HP.
+[T15] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Cumbre De Viento: +10 HP y +6 Escudo!
+[T15] [TERREMOTO CATASTROFICO] Siren Cazadora pierde su escudo y sufre -8 HP por el sismo!
+[T16] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T17] Siren Cazadora ataca a Golem De Basalto (Mult x0,75, Escenario 0): Escudo absorbe 6, Vida recibe -16 HP.
+[T18] [TERREMOTO INVERTIDO - Empatia 90>=70] Golem De Basalto armoniza con Volcan Activo: +10 HP y +6 Escudo!
+[T18] [TERREMOTO CATASTROFICO] Siren Cazadora pierde su escudo y sufre -9 HP por el sismo!
+[T18] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T19] Siren Cazadora ataca a Golem De Basalto (Mult x0,75, Escenario +6): Escudo absorbe 6, Vida recibe -22 HP.
+[T19] [DEBILITADO] Golem De Basalto (J1) cayo a 0 HP y sale definitivamente del combate!
+[T19] [RELEVO FORZADO J1] Ingresa Rocco Rompemuros desde la Cola de Relevos.
+[T20] [CAMBIO DE ESCENARIO] El entorno cambia a: Canion Rocoso.
+[T21] Siren Cazadora ataca a Rocco Rompemuros (Mult x0,75, Escenario -4): Escudo absorbe 18, Vida recibe -0 HP.
+[T21] [TERREMOTO CATASTROFICO] Rocco Rompemuros pierde su escudo y sufre -4 HP por el sismo!
+[T21] [TERREMOTO CATASTROFICO] Siren Cazadora pierde su escudo y sufre -9 HP por el sismo!
+[T22] [CAMBIO DE ESCENARIO] El entorno cambia a: Cumbre De Viento.
+[T23] Siren Cazadora ataca a Rocco Rompemuros (Mult x0,75, Escenario 0): Escudo absorbe 0, Vida recibe -22 HP.
+[T24] [TERREMOTO INVERTIDO - Empatia 70>=70] Rocco Rompemuros armoniza con Cumbre De Viento: +9 HP y +6 Escudo!
+[T24] [TERREMOTO CATASTROFICO] Siren Cazadora pierde su escudo y sufre -9 HP por el sismo!
+[T24] [CAMBIO DE ESCENARIO] El entorno cambia a: Volcan Activo.
+[T25] Siren Cazadora ataca a Rocco Rompemuros (Mult x0,75, Escenario 0): Escudo absorbe 6, Vida recibe -16 HP.
+[T26] [CAMBIO DE ESCENARIO] El entorno cambia a: Abismo Oceanico.
+[T27] Siren Cazadora ataca a Rocco Rompemuros (Mult x0,75, Escenario +6): Escudo absorbe 0, Vida recibe -28 HP.
+[T27] [DEBILITADO] Rocco Rompemuros (J1) cayo a 0 HP y sale definitivamente del combate!
+[T27] [FIN DE PARTIDA] El equipo de Luis fue eliminado! Vencedor: JugadorDos!
+======================================================================
+ESTADISTICAS ACTUALIZADAS:
+ - Luis: PJ=4 | V=3 | D=1 | Exito=75,00%
+ - JugadorDos: PJ=4 | V=1 | D=3 | Exito=25,00%
+======================================================================
